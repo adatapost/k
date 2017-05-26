@@ -1,0 +1,17 @@
+Kotline Language
+=================
+
+Kotline programming language is created by JetBrains and it is Statically typed programming language for modern multiplatform applications and also it is 100% interoperable with Java and Android.
+
+C:\Javaprg\k\p>kotlinc
+Welcome to Kotlin version 1.1.2-2 (JRE 1.8.0_112-b15)
+Type :help for help, :quit for quit
+>>> var luckyNo : Int = 5
+>>> println("${luckyNo} is my lucky number.")
+5 is my lucky number.
+>>> :quit
+
+C:\Javaprg\k\p>
+
+
+
